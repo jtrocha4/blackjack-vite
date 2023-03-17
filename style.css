@@ -1,0 +1,21 @@
+body{
+  background-color: #2F4F30;
+  color: white;
+}
+
+h1{
+  background-color: black;
+  text-align: center;
+  padding: 0.5%;
+}
+
+.carta{
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-left: -85px;
+}
+
+#jugador-cartas, #cpu-cartas{
+  height: 245px;
+}
